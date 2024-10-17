@@ -1,0 +1,66 @@
+.head{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+.text-right-captize{
+    text-align: right;
+    text-transform: capitalize;
+
+
+}
+
+.text-center-lower{
+    text-align: center;
+    text-transform: lowercase;
+
+}
+
+.text-left-upper{
+    text-align: left;
+    text-transform: uppercase;
+
+}
+
+header{
+    background-image: url("https://static-gi.asianetnews.com/images/01cgbtgq5xxda7qnv9c72qdavk/virat-kohli-gym.jpg?impolicy=All_policy&im=Resize=(1200)");
+    background-repeat: repeat-x;
+    background-size: contain;
+    color: white;
+}
+section{
+    /* background-color: lightgreen; */
+    background: linear-gradient(to top left, rgba(168, 193, 228, 0.881),lightgreen);
+}
+
+.small-header{
+    /* background-color: orange; */
+    background: linear-gradient(to right, rgb(243, 206, 137),rgb(219, 136, 35));
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.box{
+    background-color: white;
+    border: 2px solid blue;
+    max-width: 200px;
+    max-height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 500px;
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    position: relative;
+
+}
+
+.box-h4{
+    color: lightskyblue;
+    text-align: center;
+}
